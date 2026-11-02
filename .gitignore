@@ -1,0 +1,9 @@
+# Scratch & Temporary Test Files
+scratch/
+*.log
+
+# Operating System & IDE Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
